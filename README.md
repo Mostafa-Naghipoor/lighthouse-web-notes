@@ -1,4 +1,4 @@
 # Mostafa's note
 ## Summary 
 
-This repository contains all of the notes taken by Mostafa for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Mostafa](https://github.com/Mostafa-Naghipoor) for the [Lighthouse Labs](lighthouselabs.ca) Web Development Bootcamp.
